@@ -1,12 +1,48 @@
 # 💫 About Me:
-🛠️ I'm currently working on:<br>Building a Trello-like web application to enhance my web development skills and understanding of project management tools.<br><br>👥 I'm looking to collaborate on:<br>Web development projects, especially those involving full-stack development using HTML, CSS, JavaScript, Python, and C#.<br><br>🤝 I'm looking for help with:<br>Improving my skills in advanced JavaScript frameworks and libraries, as well as gaining more experience in backend development.<br><br>🌱 I'm currently learning:<br>In-depth concepts of web development, including modern JavaScript frameworks like React and backend technologies.<br><br>💬 Ask me about:<br>My journey as a computer engineering student, full-stack development, or any topics related to programming and technology.<br><br>⚡ Fun fact:<br>I'm deeply fascinated by drone technology and have practical experience with both the hardware and software aspects of drones.<br><br>---<br>About Me:<br><br>I am currently a student at Baku Higher Oil School, majoring in Computer Engineering. <br>I am a passionate full-stack developer with strong knowledge of HTML, CSS, JavaScript, Python, C#, Bootstrap, and React.js. <br>Additionally, I am familiar with Object-Oriented Programming (OOP), data structures, and algorithms.<br>---
+🚀 I'm currently focused on:<br>
+Building my expertise in **Java backend development** using **Spring Framework** and **Spring Boot**, while applying clean code principles and solid architecture patterns.<br><br>
 
+👥 I'm looking to collaborate on:<br>
+**Java** or **Full-Stack web development** projects that involve technologies like **Spring Boot**, **React**, **JavaScript**, **HTML**, and **CSS**.<br><br>
+
+🤝 I'm looking for help with:<br>
+Deepening my understanding of **backend architecture**, **microservices**, and **system design**.<br><br>
+
+🌱 I'm currently learning:<br>
+Advanced **Java**, **Spring Boot**, and **Data Structures & Algorithms** to strengthen my problem-solving and backend skills.<br><br>
+
+💬 Ask me about:<br>
+**Java development**, **Spring Boot**, **C# and Entity Framework**, or my journey from full-stack to backend-focused development.<br><br>
+
+🏅 Recent Highlights:<br>
+• Completed a **Software Developer Internship at TÜBİTAK BİLGEM (Turkey)** – built a real-time SDR web application using **React**, **Leaflet**, **SCSS**, and **Python** (Scored **100/100**).<br>
+• Gained hands-on experience at the **Institute of Management Systems (Azerbaijan)** using **C#** and **Python** for system-based projects.<br>
+• Earned a **70% scholarship** for the **Cybernetics Academy Fullstack Developer Course**, mastering **HTML, CSS, JavaScript, and Git**.<br><br>
+
+⚡ Fun fact:<br>
+I enjoy experimenting with **real-world hardware systems** and combining them with software — my background includes experience with **drone technology** and IoT.<br><br>
+
+---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100066176635380) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/1.yaquboff/?hl=es) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanan-yagubov-6b9b04284/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@yaqubov.018) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanan-yagubov-6b9b04284) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/1.yaquboff/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100066176635380)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@yaqubov.018)
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sanan011&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanan011&theme=dark&hide_border=false)<br/>
@@ -24,4 +60,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sanan011&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly recreated with your 2025 CV by ChatGPT -->
