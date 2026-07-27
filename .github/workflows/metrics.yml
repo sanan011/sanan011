@@ -1,0 +1,32 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    # Once a day, at 03:00 UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics image
+        uses: lowlighter/metrics@latest
+        with:
+          # Use a classic PAT with `repo` scope stored as METRICS_TOKEN for
+          # full plugin access (private repo stats, extra plugins). Falls
+          # back to the default token for public-only data.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: sanan011
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Baku
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 8
+          config_display: large
+        # The action commits the rendered `github-metrics.svg` directly to
+        # this repository when it has write access to the token above.

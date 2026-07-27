@@ -1,0 +1,54 @@
+name: Update README — Activity & Repositories
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: '0 */6 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Fills the block between
+      # <!--START_SECTION:activity--> and <!--END_SECTION:activity-->
+      - name: Update recent activity
+        uses: jamesgeorge007/github-activity-readme@main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 5
+          COMMIT_MSG: 'chore: update recent activity'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      # Fills the block between
+      # <!--START_SECTION:repos--> and <!--END_SECTION:repos-->
+      - name: Update latest repositories
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: sanan011
+        run: python scripts/update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update latest repositories"
+          git push
