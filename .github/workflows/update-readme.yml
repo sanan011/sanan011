@@ -19,17 +19,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Fills the block between
-      # <!--START_SECTION:activity--> and <!--END_SECTION:activity-->
-      - name: Update recent activity
-        if: github.event_name != 'push'
-        uses: jamesgeorge007/github-activity-readme@v0.4.5
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 5
-          COMMIT_MSG: 'chore: update recent activity'
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -38,9 +27,10 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      # Fills the block between
-      # <!--START_SECTION:repos--> and <!--END_SECTION:repos-->
-      - name: Update latest repositories
+      # Fills both:
+      #   <!--START_SECTION:activity--> ... <!--END_SECTION:activity-->
+      #   <!--START_SECTION:repos-->    ... <!--END_SECTION:repos-->
+      - name: Update Recent Activity & Latest Repositories
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: sanan011
@@ -51,5 +41,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update latest repositories"
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update recent activity and latest repositories"
           git push
