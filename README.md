@@ -257,6 +257,7 @@ Capstone project — a Smart Clinic Management System — applying relational da
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+_No recent public activity found._
 <!--END_SECTION:activity-->
 
 <br/>
