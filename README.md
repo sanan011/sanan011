@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:16213E,100:1B2735&height=220&section=header&text=Sanan%20Yagubov&fontSize=46&fontColor=FFC947&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Java%20%26%20Spring%20Boot%20%C2%B7%20Distributed%20Systems&descAlignY=54&descColor=D6D6D6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:16213E,100:1B2735&height=220&section=header&text=Sanan%20Yagubov&fontSize=46&fontColor=FFC947&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Java%20%2B%20Spring%20Boot%20%C2%B7%20Distributed%20Systems&descAlignY=54&descColor=D6D6D6" />
 
 <a href="https://github.com/sanan011">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=FFC947&center=true&vCenter=true&width=680&lines=Building+backend+systems+that+don't+fall+over;Java+21+%C2%B7+Spring+Boot+3+%C2%B7+Microservices;Event-driven+architecture+%C2%B7+Kafka+%C2%B7+RabbitMQ;Currently%3A+Backend+Intern+%40+DevJoint" />
@@ -264,13 +264,6 @@ Capstone project — a Smart Clinic Management System — applying relational da
 ## Latest Repositories
 
 <!--START_SECTION:repos-->
-| Repository | Language | Last Updated |
-|---|---|---|
-| [sanan011](https://github.com/sanan011/sanan011) | Python | Jul 27, 2026 |
-| [library-management-api](https://github.com/sanan011/library-management-api) | Java | Jul 27, 2026 |
-| [jwt-auth-api](https://github.com/sanan011/jwt-auth-api) | Java | Jul 26, 2026 |
-| [unibank-smartorder](https://github.com/sanan011/unibank-smartorder) | Java | Jun 30, 2026 |
-| [smartorder](https://github.com/sanan011/smartorder) | Java | Jun 21, 2026 |
 <!--END_SECTION:repos-->
 
 <br/>
