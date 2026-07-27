@@ -22,9 +22,9 @@ jobs:
       # Fills the block between
       # <!--START_SECTION:activity--> and <!--END_SECTION:activity-->
       - name: Update recent activity
-        uses: jamesgeorge007/github-activity-readme@main
+        uses: jamesgeorge007/github-activity-readme@v0.4.5
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 5
           COMMIT_MSG: 'chore: update recent activity'
