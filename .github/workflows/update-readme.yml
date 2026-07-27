@@ -22,6 +22,7 @@ jobs:
       # Fills the block between
       # <!--START_SECTION:activity--> and <!--END_SECTION:activity-->
       - name: Update recent activity
+        if: github.event_name != 'push'
         uses: jamesgeorge007/github-activity-readme@v0.4.5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
