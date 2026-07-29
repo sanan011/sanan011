@@ -195,8 +195,8 @@ Capstone project — a Smart Clinic Management System — applying relational da
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanan011&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFC947&icon_color=FFC947&text_color=C9D1D9&ring_color=FFC947&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanan011&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFC947&text_color=C9D1D9&langs_count=8" />
+<img height="165" src="./profile/stats.svg" />
+<img height="165" src="./profile/top-langs.svg" />
 
 <img src="https://streak-stats.demolab.com/?user=sanan011&background=0D1117&border=0D1117&stroke=FFC947&ring=FFC947&fire=FFC947&currStreakLabel=FFC947&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" />
 
@@ -257,7 +257,6 @@ Capstone project — a Smart Clinic Management System — applying relational da
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-_No recent public activity found._
 <!--END_SECTION:activity-->
 
 <br/>
@@ -265,13 +264,6 @@ _No recent public activity found._
 ## Latest Repositories
 
 <!--START_SECTION:repos-->
-| Repository | Language | Last Updated |
-|---|---|---|
-| [sanan011](https://github.com/sanan011/sanan011) | Python | Jul 29, 2026 |
-| [library-management-api](https://github.com/sanan011/library-management-api) | Java | Jul 27, 2026 |
-| [jwt-auth-api](https://github.com/sanan011/jwt-auth-api) | Java | Jul 26, 2026 |
-| [unibank-smartorder](https://github.com/sanan011/unibank-smartorder) | Java | Jun 30, 2026 |
-| [smartorder](https://github.com/sanan011/smartorder) | Java | Jun 21, 2026 |
 <!--END_SECTION:repos-->
 
 <br/>
