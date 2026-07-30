@@ -255,6 +255,7 @@ Capstone project — a Smart Clinic Management System — applying relational da
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+_No recent public activity found._
 <!--END_SECTION:activity-->
 
 <br/>
@@ -262,6 +263,13 @@ Capstone project — a Smart Clinic Management System — applying relational da
 ## Latest Repositories
 
 <!--START_SECTION:repos-->
+| Repository | Language | Last Updated |
+|---|---|---|
+| [sanan011](https://github.com/sanan011/sanan011) | Python | Jul 30, 2026 |
+| [library-management-api](https://github.com/sanan011/library-management-api) | Java | Jul 27, 2026 |
+| [jwt-auth-api](https://github.com/sanan011/jwt-auth-api) | Java | Jul 26, 2026 |
+| [unibank-smartorder](https://github.com/sanan011/unibank-smartorder) | Java | Jun 30, 2026 |
+| [smartorder](https://github.com/sanan011/smartorder) | Java | Jun 21, 2026 |
 <!--END_SECTION:repos-->
 
 <br/>
